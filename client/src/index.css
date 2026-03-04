@@ -38,3 +38,8 @@
     font-family: 'Inter', system-ui, sans-serif;
   }
 }
+@layer utilities {
+  .border-border {
+    border-color: var(--color-border);
+  }
+}
